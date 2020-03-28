@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">XO Game</string>
+    <string name="player_1">Player 1: 0</string>
+    <string name="player_2">Player 2: 0</string>
+    <string name="reset">Start</string>
+    <string name="xo_game">XO Game</string>
+    <string name="o2">O</string>
+    <string name="o4">O</string>
+    <string name="o6">O</string>
+    <string name="o8">O</string>
+    <string name="x1">x</string>
+    <string name="x3">x</string>
+    <string name="x5">X</string>
+    <string name="x7">x</string>
+    <string name="x9">x</string>
+</resources>
